@@ -12,11 +12,7 @@ By addressing these challenges, the CineMatch project endeavors to revolutionize
 
 ## Dataset Overview
 
-The MovieLens dataset used in the CineMatch project is a substantial collection of movie ratings provided by users. The dataset contains information on a vast number of movies and users, enabling robust analysis and modeling for personalized movie recommendations and customer segmentation.
-
-- **Number of Users**: The dataset encompasses a large user base, consisting of approximately 330,000 individuals who have rated movies. This diverse user population provides valuable insights into user preferences and behaviors.
-
-- **Number of Movies**: The dataset includes an extensive catalog of movies, totaling 86,000 titles. Spanning various genres, release years, and popularity levels, this rich movie collection offers ample opportunities for recommending diverse and engaging content to users.
+The MovieLens dataset (ml-latest) used in the CineMatch project comprises 33,832,162 ratings from 330,975 users for 86,537 movies. Spanning from January 09, 1995, to July 20, 2023, the dataset offers rich insights into user preferences over nearly three decades. The ratings.csv file contains all the rating data, with each entry representing one user's rating of one movie.
 
 ## Project Structure
 
